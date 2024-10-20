@@ -10,12 +10,14 @@ add tags for the tasks
 further sub task can be added
 check off the task or delete the task at your convenience
 To-Do list: view the list.
+
 Add daily:
 Create new tasks categorised by diffuculty (Trivial, Easy, Medium, Hard)
 add tags for the tasks
 further sub task can be added
 check off the task or delete the task at your convenience
 Dailies: view and manage the daily tasks
+
 Technolgies used
 HTML
 CSS
